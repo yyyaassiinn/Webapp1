@@ -1,5 +1,11 @@
 header {
+    width: 100%;
     background: lightblue;
     font-family: monospace;
-    border: ;
+    border: 5px ;
+    padding: 1px;
+}
+body {
+  margin: 0; 
+  padding: 0;
 }
